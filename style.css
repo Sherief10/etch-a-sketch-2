@@ -1,0 +1,10 @@
+#board {
+  display: grid;
+  width: 500px;
+  height: 500px;
+}
+
+.grid-item {
+  background-color: #fff;
+  border: 1px solid #000;
+}
